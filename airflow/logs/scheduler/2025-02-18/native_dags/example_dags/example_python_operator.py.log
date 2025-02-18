@@ -282,3 +282,11 @@
 [2025-02-17T22:40:43.946-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:43.946-0700] {dag.py:2941} INFO - Sync 1 DAGs
 [2025-02-17T22:40:43.959-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:43.959-0700] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
 [2025-02-17T22:40:43.984-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.153 seconds
+[2025-02-17T22:41:37.918-0700] {processor.py:157} INFO - Started process (PID=162225) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-17T22:41:37.920-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2025-02-17T22:41:37.921-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:37.921-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-17T22:41:38.070-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:38.070-0700] {example_python_operator.py:86} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2025-02-17T22:41:38.072-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py
+[2025-02-17T22:41:38.111-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:38.111-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:41:38.140-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:38.139-0700] {dag.py:3722} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2025-02-17T22:41:38.188-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_python_operator.py took 0.274 seconds

@@ -191,3 +191,10 @@
 [2025-02-17T22:40:47.876-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:47.875-0700] {dag.py:2941} INFO - Sync 1 DAGs
 [2025-02-17T22:40:47.886-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:47.886-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
 [2025-02-17T22:40:47.909-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.080 seconds
+[2025-02-17T22:41:47.974-0700] {processor.py:157} INFO - Started process (PID=162264) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-17T22:41:47.977-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-02-17T22:41:47.979-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:47.978-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-17T22:41:47.995-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-02-17T22:41:48.024-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:48.024-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:41:48.041-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:48.040-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-02-17T22:41:48.102-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.133 seconds

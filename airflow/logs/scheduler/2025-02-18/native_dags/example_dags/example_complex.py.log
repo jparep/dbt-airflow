@@ -191,3 +191,10 @@
 [2025-02-17T22:40:30.288-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:30.288-0700] {dag.py:2941} INFO - Sync 1 DAGs
 [2025-02-17T22:40:30.298-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:30.298-0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
 [2025-02-17T22:40:30.318-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2025-02-17T22:41:28.643-0700] {processor.py:157} INFO - Started process (PID=162187) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-02-17T22:41:28.646-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-02-17T22:41:28.648-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:28.647-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-02-17T22:41:28.667-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-02-17T22:41:28.702-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:28.701-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:41:28.716-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:28.716-0700] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-02-17T22:41:28.743-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds

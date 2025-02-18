@@ -238,3 +238,11 @@
 [2025-02-17T22:41:05.833-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:05.833-0700] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
 [2025-02-17T22:41:05.838-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:05.837-0700] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
 [2025-02-17T22:41:05.859-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py took 0.088 seconds
+[2025-02-17T22:42:08.070-0700] {processor.py:157} INFO - Started process (PID=162377) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-02-17T22:42:08.073-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2025-02-17T22:42:08.074-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:08.074-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-02-17T22:42:08.088-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_xcom_args_with_operators', 'example_xcom_args']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py
+[2025-02-17T22:42:08.115-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:08.115-0700] {dag.py:2941} INFO - Sync 2 DAGs
+[2025-02-17T22:42:08.131-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:08.131-0700] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2025-02-17T22:42:08.135-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:08.135-0700] {dag.py:3722} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2025-02-17T22:42:08.160-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_xcomargs.py took 0.095 seconds

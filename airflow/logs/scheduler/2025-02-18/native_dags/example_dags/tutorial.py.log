@@ -261,3 +261,17 @@
 [2025-02-17T22:40:58.844-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:58.844-0700] {dag.py:2941} INFO - Sync 1 DAGs
 [2025-02-17T22:40:58.862-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:58.862-0700] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-02-17T05:40:58.862178+00:00, run_after=2025-02-18T05:40:58.862178+00:00
 [2025-02-17T22:40:58.884-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.076 seconds
+[2025-02-17T22:41:36.643-0700] {processor.py:157} INFO - Started process (PID=162224) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-02-17T22:41:36.646-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-02-17T22:41:36.647-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:36.646-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-02-17T22:41:36.659-0700] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-02-17T22:41:36.684-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:36.684-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:41:36.710-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:36.710-0700] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-02-17T05:41:36.710146+00:00, run_after=2025-02-18T05:41:36.710146+00:00
+[2025-02-17T22:41:36.746-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.108 seconds
+[2025-02-17T22:42:18.852-0700] {processor.py:157} INFO - Started process (PID=162591) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-02-17T22:42:18.855-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-02-17T22:42:18.856-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:18.855-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-02-17T22:42:18.866-0700] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2025-02-17T22:42:18.887-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:18.887-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:42:18.904-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:18.904-0700] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-02-17T05:42:18.904151+00:00, run_after=2025-02-18T05:42:18.904151+00:00
+[2025-02-17T22:42:18.924-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.077 seconds

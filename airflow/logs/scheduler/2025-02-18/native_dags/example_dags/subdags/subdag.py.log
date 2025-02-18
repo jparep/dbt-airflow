@@ -133,3 +133,8 @@
 [2025-02-17T22:41:09.206-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:09.205-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
 [2025-02-17T22:41:09.209-0700] {processor.py:841} WARNING - No viable dags retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
 [2025-02-17T22:41:09.223-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2025-02-17T22:42:11.706-0700] {processor.py:157} INFO - Started process (PID=162506) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-17T22:42:11.708-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2025-02-17T22:42:11.710-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:11.709-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-17T22:42:11.713-0700] {processor.py:841} WARNING - No viable dags retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py
+[2025-02-17T22:42:11.727-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/subdags/subdag.py took 0.026 seconds

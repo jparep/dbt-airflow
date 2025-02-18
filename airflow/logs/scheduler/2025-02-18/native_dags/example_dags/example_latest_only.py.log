@@ -198,3 +198,10 @@
 [2025-02-17T22:40:45.410-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:45.410-0700] {dag.py:2941} INFO - Sync 1 DAGs
 [2025-02-17T22:40:45.424-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:45.424-0700] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2025-02-18T01:40:45.424541+00:00, run_after=2025-02-18T05:40:45.424541+00:00
 [2025-02-17T22:40:45.442-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.056 seconds
+[2025-02-17T22:41:44.351-0700] {processor.py:157} INFO - Started process (PID=162249) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-02-17T22:41:44.355-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2025-02-17T22:41:44.356-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:44.355-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-02-17T22:41:44.367-0700] {processor.py:839} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py
+[2025-02-17T22:41:44.392-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:44.391-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:41:44.416-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:44.416-0700] {dag.py:3722} INFO - Setting next_dagrun for latest_only to 2025-02-18T01:41:44.415818+00:00, run_after=2025-02-18T05:41:44.415818+00:00
+[2025-02-17T22:41:44.445-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_latest_only.py took 0.102 seconds

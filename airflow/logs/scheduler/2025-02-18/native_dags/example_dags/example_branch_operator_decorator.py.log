@@ -191,3 +191,10 @@
 [2025-02-17T22:41:08.098-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:08.098-0700] {dag.py:2941} INFO - Sync 1 DAGs
 [2025-02-17T22:41:08.112-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:08.112-0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2025-02-17T00:00:00+00:00, run_after=2025-02-18T00:00:00+00:00
 [2025-02-17T22:41:08.131-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.073 seconds
+[2025-02-17T22:42:10.466-0700] {processor.py:157} INFO - Started process (PID=162385) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2025-02-17T22:42:10.469-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator_decorator.py for tasks to queue
+[2025-02-17T22:42:10.470-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:10.470-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2025-02-17T22:42:10.486-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_branch_python_operator_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2025-02-17T22:42:10.513-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:10.513-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:42:10.539-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:10.539-0700] {dag.py:3722} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2025-02-17T00:00:00+00:00, run_after=2025-02-18T00:00:00+00:00
+[2025-02-17T22:42:10.564-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.103 seconds

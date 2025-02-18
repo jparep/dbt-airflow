@@ -133,3 +133,8 @@
 [2025-02-17T22:41:10.125-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:10.125-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
 [2025-02-17T22:41:10.129-0700] {processor.py:841} WARNING - No viable dags retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
 [2025-02-17T22:41:10.143-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.027 seconds
+[2025-02-17T22:42:12.552-0700] {processor.py:157} INFO - Started process (PID=162567) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-02-17T22:42:12.556-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py for tasks to queue
+[2025-02-17T22:42:12.558-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:12.557-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-02-17T22:42:12.561-0700] {processor.py:841} WARNING - No viable dags retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py
+[2025-02-17T22:42:12.577-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/plugins/event_listener.py took 0.030 seconds

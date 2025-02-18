@@ -352,3 +352,27 @@
 [2025-02-17T22:40:27.184-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:27.184-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
 [2025-02-17T22:40:27.184-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:27.184-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
 [2025-02-17T22:40:27.195-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.075 seconds
+[2025-02-17T22:41:22.360-0700] {processor.py:157} INFO - Started process (PID=162169) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-02-17T22:41:22.363-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-02-17T22:41:22.365-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:22.364-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-02-17T22:41:22.398-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-02-17T22:41:22.419-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:22.419-0700] {dag.py:2941} INFO - Sync 3 DAGs
+[2025-02-17T22:41:22.446-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:22.446-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-02-17T22:41:22.450-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:22.449-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-02-17T22:41:22.451-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:22.451-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-02-17T22:41:22.458-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:22.458-0700] {dag.py:2941} INFO - Sync 2 DAGs
+[2025-02-17T22:41:22.463-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:22.463-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-02-17T22:41:22.463-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:22.463-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-02-17T22:41:22.487-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.132 seconds
+[2025-02-17T22:42:06.474-0700] {processor.py:157} INFO - Started process (PID=162368) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-02-17T22:42:06.477-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2025-02-17T22:42:06.478-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:06.478-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-02-17T22:42:06.500-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py
+[2025-02-17T22:42:06.515-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:06.514-0700] {dag.py:2941} INFO - Sync 3 DAGs
+[2025-02-17T22:42:06.531-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:06.531-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2025-02-17T22:42:06.533-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:06.533-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-02-17T22:42:06.534-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:06.534-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-02-17T22:42:06.539-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:06.539-0700] {dag.py:2941} INFO - Sync 2 DAGs
+[2025-02-17T22:42:06.542-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:06.542-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2025-02-17T22:42:06.542-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:06.542-0700] {dag.py:3722} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2025-02-17T22:42:06.558-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_subdag_operator.py took 0.088 seconds

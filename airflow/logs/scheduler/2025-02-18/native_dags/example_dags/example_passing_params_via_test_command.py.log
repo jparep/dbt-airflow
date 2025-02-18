@@ -191,3 +191,10 @@
 [2025-02-17T22:40:54.751-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:54.751-0700] {dag.py:2941} INFO - Sync 1 DAGs
 [2025-02-17T22:40:54.780-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:54.780-0700] {dag.py:3722} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2025-02-18T05:39:00+00:00, run_after=2025-02-18T05:40:00+00:00
 [2025-02-17T22:40:54.814-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.116 seconds
+[2025-02-17T22:41:51.795-0700] {processor.py:157} INFO - Started process (PID=162297) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2025-02-17T22:41:51.798-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2025-02-17T22:41:51.800-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:51.799-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2025-02-17T22:41:51.818-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2025-02-17T22:41:51.844-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:51.844-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:41:51.872-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:51.871-0700] {dag.py:3722} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2025-02-18T05:40:00+00:00, run_after=2025-02-18T05:41:00+00:00
+[2025-02-17T22:41:51.896-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.108 seconds

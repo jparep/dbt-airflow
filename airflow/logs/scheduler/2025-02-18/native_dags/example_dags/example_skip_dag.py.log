@@ -282,3 +282,17 @@
 [2025-02-17T22:40:55.329-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:55.329-0700] {dag.py:2941} INFO - Sync 1 DAGs
 [2025-02-17T22:40:55.358-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:55.358-0700] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2025-02-17T05:40:55.357878+00:00, run_after=2025-02-18T05:40:55.357878+00:00
 [2025-02-17T22:40:55.393-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.115 seconds
+[2025-02-17T22:41:33.840-0700] {processor.py:157} INFO - Started process (PID=162208) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-02-17T22:41:33.844-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-02-17T22:41:33.845-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:33.844-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-02-17T22:41:33.863-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-02-17T22:41:33.891-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:33.890-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:41:33.918-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:33.918-0700] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2025-02-17T05:41:33.918244+00:00, run_after=2025-02-18T05:41:33.918244+00:00
+[2025-02-17T22:41:33.949-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.115 seconds
+[2025-02-17T22:42:15.473-0700] {processor.py:157} INFO - Started process (PID=162576) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-02-17T22:42:15.475-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2025-02-17T22:42:15.477-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:15.476-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-02-17T22:42:15.488-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py
+[2025-02-17T22:42:15.509-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:15.509-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:42:15.526-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:42:15.526-0700] {dag.py:3722} INFO - Setting next_dagrun for example_skip_dag to 2025-02-17T05:42:15.526155+00:00, run_after=2025-02-18T05:42:15.526155+00:00
+[2025-02-17T22:42:15.549-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_skip_dag.py took 0.081 seconds

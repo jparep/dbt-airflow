@@ -233,3 +233,10 @@
 [2025-02-17T22:41:01.815-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:01.815-0700] {dag.py:2941} INFO - Sync 1 DAGs
 [2025-02-17T22:41:01.833-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:01.833-0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-02-17T05:41:01.833401+00:00, run_after=2025-02-18T05:41:01.833401+00:00
 [2025-02-17T22:41:01.863-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.089 seconds
+[2025-02-17T22:41:41.489-0700] {processor.py:157} INFO - Started process (PID=162240) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-17T22:41:41.494-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2025-02-17T22:41:41.496-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:41.495-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-17T22:41:41.511-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_setup_teardown']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py
+[2025-02-17T22:41:41.545-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:41.544-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:41:41.581-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:41:41.581-0700] {dag.py:3722} INFO - Setting next_dagrun for example_setup_teardown to 2025-02-17T05:41:41.581249+00:00, run_after=2025-02-18T05:41:41.581249+00:00
+[2025-02-17T22:41:41.614-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_setup_teardown.py took 0.130 seconds
