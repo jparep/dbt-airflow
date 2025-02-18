@@ -1,8 +1,18 @@
 version: 2
 
 sources:
-  - name: raw  # Used in dbt models
-    database: employee_db  # ✅ Updated to match Snowflake setup
-    schema: employee       # ✅ Updated to match schema
+  - name: raw
+    database: employee_db  # ✅ Matches Snowflake database
+    schema: employee       # ✅ Matches Snowflake schema
     tables:
-      - name: tbl          # ✅ Matches your actual table name in Snowflake
+      - name: tbl          # ✅ Matches Snowflake table
+        description: "Raw employee data loaded from Fivetran"
+        columns:
+          - name: first
+            description: "First name of the employee"
+          - name: last
+            description: "Last name of the employee"
+          - name: age
+            description: "Age of the employee"
+          - name: sex
+            description: "Gender of the employee"

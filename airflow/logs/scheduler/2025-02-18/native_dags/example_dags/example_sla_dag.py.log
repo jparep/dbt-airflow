@@ -1,0 +1,193 @@
+[2025-02-17T22:16:22.797-0700] {processor.py:157} INFO - Started process (PID=148732) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:16:22.797-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:16:22.798-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:16:22.798-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:16:22.806-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:16:22.957-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:16:22.957-0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-02-17T22:16:22.969-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:16:22.969-0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-02-17T22:16:22.979-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:16:22.979-0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-02-17T22:16:22.980-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:16:22.979-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:16:22.987-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:16:22.987-0700] {dag.py:2963} INFO - Creating ORM DAG for example_sla_dag
+[2025-02-17T22:16:22.996-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:16:22.995-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:14:00+00:00, run_after=2025-02-18T05:16:00+00:00
+[2025-02-17T22:16:23.017-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.223 seconds
+[2025-02-17T22:17:17.090-0700] {processor.py:157} INFO - Started process (PID=148974) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:17:17.091-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:17:17.092-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:17:17.092-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:17:17.099-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:17:17.112-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:17:17.111-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:17:17.210-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:17:17.210-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:14:00+00:00, run_after=2025-02-18T05:16:00+00:00
+[2025-02-17T22:17:17.227-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.140 seconds
+[2025-02-17T22:18:08.158-0700] {processor.py:157} INFO - Started process (PID=149482) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:18:08.161-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:18:08.162-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:18:08.162-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:18:08.175-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:18:08.196-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:18:08.196-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:18:08.229-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:18:08.229-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:16:00+00:00, run_after=2025-02-18T05:18:00+00:00
+[2025-02-17T22:18:08.262-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.107 seconds
+[2025-02-17T22:19:05.486-0700] {processor.py:157} INFO - Started process (PID=150013) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:19:05.489-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:19:05.490-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:19:05.489-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:19:05.505-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:19:05.533-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:19:05.532-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:19:05.565-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:19:05.564-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:16:00+00:00, run_after=2025-02-18T05:18:00+00:00
+[2025-02-17T22:19:05.581-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-02-17T22:20:05.029-0700] {processor.py:157} INFO - Started process (PID=150566) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:20:05.031-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:20:05.032-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:20:05.032-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:20:05.047-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:20:05.071-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:20:05.071-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:20:05.091-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:20:05.091-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:18:00+00:00, run_after=2025-02-18T05:20:00+00:00
+[2025-02-17T22:20:05.112-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.088 seconds
+[2025-02-17T22:21:02.874-0700] {processor.py:157} INFO - Started process (PID=151120) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:21:02.877-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:21:02.878-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:21:02.878-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:21:02.893-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:21:02.922-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:21:02.922-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:21:02.948-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:21:02.948-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:18:00+00:00, run_after=2025-02-18T05:20:00+00:00
+[2025-02-17T22:21:02.967-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.098 seconds
+[2025-02-17T22:21:52.840-0700] {processor.py:157} INFO - Started process (PID=151581) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:21:52.843-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:21:52.845-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:21:52.844-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:21:52.860-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:21:52.878-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:21:52.878-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:21:52.897-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:21:52.897-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:18:00+00:00, run_after=2025-02-18T05:20:00+00:00
+[2025-02-17T22:21:52.917-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.086 seconds
+[2025-02-17T22:22:46.355-0700] {processor.py:157} INFO - Started process (PID=151902) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:22:46.356-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:22:46.358-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:22:46.357-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:22:46.375-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:22:46.399-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:22:46.399-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:22:46.418-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:22:46.418-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:20:00+00:00, run_after=2025-02-18T05:22:00+00:00
+[2025-02-17T22:22:46.437-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.089 seconds
+[2025-02-17T22:23:39.893-0700] {processor.py:157} INFO - Started process (PID=152258) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:23:39.896-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:23:39.899-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:23:39.898-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:23:39.911-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:23:39.931-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:23:39.931-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:23:39.956-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:23:39.956-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:20:00+00:00, run_after=2025-02-18T05:22:00+00:00
+[2025-02-17T22:23:39.981-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.091 seconds
+[2025-02-17T22:24:34.351-0700] {processor.py:157} INFO - Started process (PID=152792) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:24:36.453-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:24:36.454-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:24:36.453-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:24:36.466-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:24:36.491-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:24:36.490-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:24:36.516-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:24:36.516-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:22:00+00:00, run_after=2025-02-18T05:24:00+00:00
+[2025-02-17T22:24:36.535-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.091 seconds
+[2025-02-17T22:25:31.726-0700] {processor.py:157} INFO - Started process (PID=153327) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:25:31.728-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:25:31.729-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:25:31.729-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:25:31.742-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:25:31.765-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:25:31.765-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:25:31.791-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:25:31.791-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:22:00+00:00, run_after=2025-02-18T05:24:00+00:00
+[2025-02-17T22:25:31.815-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.095 seconds
+[2025-02-17T22:26:29.818-0700] {processor.py:157} INFO - Started process (PID=153869) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:26:29.820-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:26:29.821-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:26:29.821-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:26:29.833-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:26:29.854-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:26:29.854-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:26:29.873-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:26:29.873-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:24:00+00:00, run_after=2025-02-18T05:26:00+00:00
+[2025-02-17T22:26:29.893-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.080 seconds
+[2025-02-17T22:27:20.965-0700] {processor.py:157} INFO - Started process (PID=154373) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:27:20.968-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:27:20.969-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:27:20.969-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:27:20.981-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:27:21.002-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:27:21.002-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:27:21.021-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:27:21.021-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:24:00+00:00, run_after=2025-02-18T05:26:00+00:00
+[2025-02-17T22:27:21.054-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.093 seconds
+[2025-02-17T22:28:18.056-0700] {processor.py:157} INFO - Started process (PID=154885) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:28:18.059-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:28:18.060-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:28:18.060-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:28:18.073-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:28:18.096-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:28:18.096-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:28:18.121-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:28:18.121-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:26:00+00:00, run_after=2025-02-18T05:28:00+00:00
+[2025-02-17T22:28:18.143-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.091 seconds
+[2025-02-17T22:29:19.425-0700] {processor.py:157} INFO - Started process (PID=155298) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:29:19.426-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:29:19.427-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:29:19.427-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:29:19.439-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:29:19.456-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:29:19.455-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:29:19.475-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:29:19.475-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:26:00+00:00, run_after=2025-02-18T05:28:00+00:00
+[2025-02-17T22:29:19.503-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.082 seconds
+[2025-02-17T22:30:19.681-0700] {processor.py:157} INFO - Started process (PID=155777) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:30:19.685-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:30:19.686-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:30:19.685-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:30:19.698-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:30:19.720-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:30:19.720-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:30:19.736-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:30:19.736-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:28:00+00:00, run_after=2025-02-18T05:30:00+00:00
+[2025-02-17T22:30:19.753-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.077 seconds
+[2025-02-17T22:31:13.264-0700] {processor.py:157} INFO - Started process (PID=156131) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:31:13.267-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:31:13.269-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:31:13.268-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:31:13.283-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:31:13.310-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:31:13.310-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:31:13.340-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:31:13.340-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:28:00+00:00, run_after=2025-02-18T05:30:00+00:00
+[2025-02-17T22:31:13.370-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.111 seconds
+[2025-02-17T22:32:10.140-0700] {processor.py:157} INFO - Started process (PID=156669) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:32:10.143-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:32:10.144-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:32:10.144-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:32:10.156-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:32:10.178-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:32:10.178-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:32:10.200-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:32:10.199-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:30:00+00:00, run_after=2025-02-18T05:32:00+00:00
+[2025-02-17T22:32:10.219-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.084 seconds
+[2025-02-17T22:33:06.583-0700] {processor.py:157} INFO - Started process (PID=157080) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:33:06.586-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:33:06.588-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:33:06.587-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:33:06.601-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:33:06.623-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:33:06.622-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:33:06.651-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:33:06.651-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:30:00+00:00, run_after=2025-02-18T05:32:00+00:00
+[2025-02-17T22:33:06.679-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.100 seconds
+[2025-02-17T22:34:04.364-0700] {processor.py:157} INFO - Started process (PID=157566) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:34:04.367-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:34:04.368-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:34:04.368-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:34:04.383-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:34:04.399-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:34:04.399-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:34:04.415-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:34:04.415-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:32:00+00:00, run_after=2025-02-18T05:34:00+00:00
+[2025-02-17T22:34:04.436-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.077 seconds
+[2025-02-17T22:34:58.165-0700] {processor.py:157} INFO - Started process (PID=157974) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:34:58.167-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:34:58.168-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:34:58.167-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:34:58.181-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:34:58.208-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:34:58.208-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:34:58.239-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:34:58.238-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:32:00+00:00, run_after=2025-02-18T05:34:00+00:00
+[2025-02-17T22:34:58.269-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.108 seconds
+[2025-02-17T22:35:54.053-0700] {processor.py:157} INFO - Started process (PID=158498) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:35:54.056-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:35:54.057-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:35:54.056-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:35:54.064-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:35:54.084-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:35:54.084-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:35:54.104-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:35:54.104-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:32:00+00:00, run_after=2025-02-18T05:34:00+00:00
+[2025-02-17T22:35:54.120-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.072 seconds
+[2025-02-17T22:36:56.944-0700] {processor.py:157} INFO - Started process (PID=159070) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:36:56.947-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:36:56.948-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:36:56.947-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:36:56.960-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:36:56.985-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:36:56.985-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:36:57.004-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:36:57.004-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:34:00+00:00, run_after=2025-02-18T05:36:00+00:00
+[2025-02-17T22:36:57.023-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.083 seconds
+[2025-02-17T22:37:50.570-0700] {processor.py:157} INFO - Started process (PID=160049) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:37:50.573-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:37:50.575-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:37:50.574-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:37:50.587-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:37:50.608-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:37:50.608-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:37:50.624-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:37:50.624-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:34:00+00:00, run_after=2025-02-18T05:36:00+00:00
+[2025-02-17T22:37:50.641-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.076 seconds
+[2025-02-17T22:38:42.478-0700] {processor.py:157} INFO - Started process (PID=160680) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:38:42.481-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:38:42.482-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:38:42.482-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:38:42.495-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:38:42.518-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:38:42.518-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:38:42.545-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:38:42.545-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:36:00+00:00, run_after=2025-02-18T05:38:00+00:00
+[2025-02-17T22:38:42.567-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.093 seconds
+[2025-02-17T22:39:36.175-0700] {processor.py:157} INFO - Started process (PID=161224) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:39:36.178-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:39:36.179-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:39:36.179-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:39:36.190-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:39:36.205-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:39:36.205-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:39:36.221-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:39:36.221-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:36:00+00:00, run_after=2025-02-18T05:38:00+00:00
+[2025-02-17T22:39:36.235-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.065 seconds
+[2025-02-17T22:40:33.558-0700] {processor.py:157} INFO - Started process (PID=161712) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:40:33.562-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-02-17T22:40:33.563-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:33.562-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:40:33.571-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-02-17T22:40:33.587-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:33.586-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:40:33.604-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:33.603-0700] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-02-18T05:38:00+00:00, run_after=2025-02-18T05:40:00+00:00
+[2025-02-17T22:40:33.623-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.068 seconds

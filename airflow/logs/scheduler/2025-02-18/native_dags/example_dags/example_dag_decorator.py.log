@@ -1,0 +1,193 @@
+[2025-02-17T22:16:22.342-0700] {processor.py:157} INFO - Started process (PID=148731) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:16:22.344-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:16:22.345-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:16:22.344-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:16:22.505-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:16:22.578-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:16:22.578-0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-02-17T22:16:22.587-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:16:22.587-0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-02-17T22:16:22.595-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:16:22.595-0700] {manager.py:499} INFO - Created Permission View: %s
+[2025-02-17T22:16:22.595-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:16:22.595-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:16:22.604-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:16:22.604-0700] {dag.py:2963} INFO - Creating ORM DAG for example_dag_decorator
+[2025-02-17T22:16:22.605-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:16:22.605-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:16:22.629-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.291 seconds
+[2025-02-17T22:17:16.545-0700] {processor.py:157} INFO - Started process (PID=148973) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:17:16.546-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:17:16.547-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:17:16.546-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:17:16.661-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:17:16.716-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:17:16.716-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:17:16.722-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:17:16.722-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:17:16.737-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.194 seconds
+[2025-02-17T22:18:06.904-0700] {processor.py:157} INFO - Started process (PID=149469) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:18:06.906-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:18:06.907-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:18:06.906-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:18:06.957-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:18:07.026-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:18:07.026-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:18:07.033-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:18:07.033-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:18:07.055-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.156 seconds
+[2025-02-17T22:19:04.916-0700] {processor.py:157} INFO - Started process (PID=150012) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:19:04.918-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:19:04.919-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:19:04.918-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:19:04.967-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:19:05.030-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:19:05.030-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:19:05.036-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:19:05.036-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:19:05.057-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.146 seconds
+[2025-02-17T22:20:03.789-0700] {processor.py:157} INFO - Started process (PID=150553) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:20:03.792-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:20:03.793-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:20:03.792-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:20:03.866-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:20:03.940-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:20:03.940-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:20:03.947-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:20:03.947-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:20:03.966-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.182 seconds
+[2025-02-17T22:21:01.623-0700] {processor.py:157} INFO - Started process (PID=151107) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:21:01.625-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:21:01.626-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:21:01.626-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:21:01.689-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:21:01.761-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:21:01.761-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:21:01.768-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:21:01.768-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:21:01.788-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.170 seconds
+[2025-02-17T22:21:51.487-0700] {processor.py:157} INFO - Started process (PID=151574) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:21:51.492-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:21:51.492-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:21:51.492-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:21:51.565-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:21:51.656-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:21:51.656-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:21:51.664-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:21:51.664-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:21:51.692-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.212 seconds
+[2025-02-17T22:22:45.093-0700] {processor.py:157} INFO - Started process (PID=151782) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:22:45.097-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:22:45.098-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:22:45.097-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:22:45.167-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:22:45.184-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:22:45.183-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:22:45.193-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:22:45.193-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:22:45.215-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.126 seconds
+[2025-02-17T22:23:38.651-0700] {processor.py:157} INFO - Started process (PID=152257) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:23:38.654-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:23:38.656-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:23:38.655-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:23:38.717-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:23:38.795-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:23:38.795-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:23:38.802-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:23:38.802-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:23:38.822-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.175 seconds
+[2025-02-17T22:24:33.968-0700] {processor.py:157} INFO - Started process (PID=152785) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:24:33.970-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:24:33.971-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:24:33.971-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:24:34.048-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:24:34.129-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:24:34.129-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:24:34.136-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:24:34.136-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:24:34.154-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.191 seconds
+[2025-02-17T22:25:30.479-0700] {processor.py:157} INFO - Started process (PID=153320) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:25:30.481-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:25:30.483-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:25:30.482-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:25:30.557-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:25:30.630-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:25:30.629-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:25:30.638-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:25:30.638-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:25:30.658-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.183 seconds
+[2025-02-17T22:26:29.222-0700] {processor.py:157} INFO - Started process (PID=153862) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:26:29.224-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:26:29.225-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:26:29.225-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:26:29.302-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:26:29.379-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:26:29.378-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:26:29.389-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:26:29.389-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:26:29.421-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.203 seconds
+[2025-02-17T22:27:20.495-0700] {processor.py:157} INFO - Started process (PID=154369) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:27:20.498-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:27:20.499-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:27:20.498-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:27:20.560-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:27:20.654-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:27:20.654-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:27:20.663-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:27:20.663-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:27:20.684-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.195 seconds
+[2025-02-17T22:28:16.796-0700] {processor.py:157} INFO - Started process (PID=154878) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:28:16.799-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:28:16.800-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:28:16.799-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:28:16.882-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:28:16.898-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:28:16.898-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:28:16.908-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:28:16.908-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:28:16.936-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.145 seconds
+[2025-02-17T22:29:18.181-0700] {processor.py:157} INFO - Started process (PID=155291) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:29:18.183-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:29:18.184-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:29:18.183-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:29:18.236-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:29:18.317-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:29:18.317-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:29:18.326-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:29:18.326-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:29:18.352-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.174 seconds
+[2025-02-17T22:30:18.442-0700] {processor.py:157} INFO - Started process (PID=155762) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:30:18.444-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:30:18.445-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:30:18.445-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:30:18.492-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:30:18.570-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:30:18.569-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:30:18.576-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:30:18.576-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:30:18.596-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.159 seconds
+[2025-02-17T22:31:11.913-0700] {processor.py:157} INFO - Started process (PID=156124) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:31:11.916-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:31:11.917-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:31:11.917-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:31:11.999-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:31:12.088-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:31:12.087-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:31:12.097-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:31:12.096-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:31:12.129-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.220 seconds
+[2025-02-17T22:32:09.198-0700] {processor.py:157} INFO - Started process (PID=156662) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:32:09.204-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:32:09.205-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:32:09.204-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:32:09.271-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:32:09.352-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:32:09.352-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:32:09.362-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:32:09.361-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:32:09.382-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.190 seconds
+[2025-02-17T22:33:05.239-0700] {processor.py:157} INFO - Started process (PID=157067) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:33:05.241-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:33:05.243-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:33:05.242-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:33:05.322-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:33:05.408-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:33:05.408-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:33:05.416-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:33:05.416-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:33:05.436-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.202 seconds
+[2025-02-17T22:34:03.228-0700] {processor.py:157} INFO - Started process (PID=157559) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:34:03.230-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:34:03.230-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:34:03.230-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:34:03.272-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:34:03.286-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:34:03.286-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:34:03.294-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:34:03.294-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:34:03.312-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.086 seconds
+[2025-02-17T22:34:56.934-0700] {processor.py:157} INFO - Started process (PID=157967) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:34:56.935-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:34:56.937-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:34:56.936-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:34:56.997-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:34:57.056-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:34:57.056-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:34:57.062-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:34:57.062-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:34:57.084-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.154 seconds
+[2025-02-17T22:35:53.192-0700] {processor.py:157} INFO - Started process (PID=158497) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:35:53.195-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:35:53.196-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:35:53.195-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:35:53.247-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:35:53.319-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:35:53.319-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:35:53.325-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:35:53.325-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:35:53.342-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.154 seconds
+[2025-02-17T22:36:55.604-0700] {processor.py:157} INFO - Started process (PID=159063) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:36:55.606-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:36:55.607-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:36:55.606-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:36:55.672-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:36:55.763-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:36:55.763-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:36:55.775-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:36:55.775-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:36:55.803-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.204 seconds
+[2025-02-17T22:37:49.325-0700] {processor.py:157} INFO - Started process (PID=160027) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:37:49.329-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:37:49.330-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:37:49.329-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:37:49.383-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:37:49.449-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:37:49.449-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:37:49.456-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:37:49.456-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:37:49.472-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.151 seconds
+[2025-02-17T22:38:41.365-0700] {processor.py:157} INFO - Started process (PID=160673) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:38:41.367-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:38:41.368-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:38:41.368-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:38:41.416-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:38:41.480-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:38:41.480-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:38:41.487-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:38:41.487-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:38:41.507-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.146 seconds
+[2025-02-17T22:39:35.455-0700] {processor.py:157} INFO - Started process (PID=161223) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:39:35.458-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:39:35.459-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:39:35.458-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:39:35.517-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:39:35.580-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:39:35.579-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:39:35.587-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:39:35.586-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:39:35.603-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.152 seconds
+[2025-02-17T22:40:32.268-0700] {processor.py:157} INFO - Started process (PID=161698) to work on /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:40:32.271-0700] {processor.py:829} INFO - Processing file /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2025-02-17T22:40:32.272-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:32.272-0700] {dagbag.py:536} INFO - Filling up the DagBag from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:40:32.318-0700] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py
+[2025-02-17T22:40:32.384-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:32.384-0700] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-02-17T22:40:32.391-0700] {logging_mixin.py:154} INFO - [2025-02-17T22:40:32.390-0700] {dag.py:3722} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2025-02-17T22:40:32.407-0700] {processor.py:179} INFO - Processing /home/jparep/miniconda3/envs/dbt-env/lib/python3.11/site-packages/airflow/example_dags/example_dag_decorator.py took 0.143 seconds
