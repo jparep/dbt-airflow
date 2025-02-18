@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw  # Used in dbt models
+    database: employee_db  # ✅ Updated to match Snowflake setup
+    schema: employee       # ✅ Updated to match schema
+    tables:
+      - name: tbl          # ✅ Matches your actual table name in Snowflake
